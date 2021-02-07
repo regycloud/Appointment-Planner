@@ -1,1 +1,2 @@
 # LearnShopify
+my first leraning
