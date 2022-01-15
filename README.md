@@ -1,2 +1,1 @@
-# LearnShopify
-my first leraning
+# Jest - Javascript Testing
